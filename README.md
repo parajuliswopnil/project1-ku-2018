@@ -3,4 +3,4 @@ first year - second semester's project
 
 Hi Humans!
 Just checking how branches, commits etc. work.
-So long!
+So long! oh fuck you
